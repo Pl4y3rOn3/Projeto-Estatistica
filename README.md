@@ -1,6 +1,8 @@
 # Projeto-Estatistica
 Projeto - Análise estatística de Formulário criado numa Linguagem de Programação
 
+Nome: Henrique Pablo Pinheiro dos Santos Pimentel
+
 Primeira Etapa - Dataframe criado em python e exportado em csv com todos os atributos e variaveis com 20 pesquisas.
 
 Segunda Etapa - Programa em R que possui importação do dataframe, manipulação dele e geração de graficos a partir dos dados do dataframe.
